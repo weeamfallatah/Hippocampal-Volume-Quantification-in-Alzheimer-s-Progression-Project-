@@ -68,3 +68,4 @@ bash download_data.sh
 
 ---
 
+chmod +x download_data.sh
